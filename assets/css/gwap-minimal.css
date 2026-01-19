@@ -1,0 +1,12 @@
+body {
+  background:#0b0d10;
+  color:#e6e8eb;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+  line-height:1.6;
+  margin:0;
+}
+h1,h2,h3 { color:#ffffff; }
+a { color:#34ff88; text-decoration:none; }
+a:hover { color:#7dffb2; }
+section { margin-top:3rem; padding-top:2rem; border-top:1px solid rgba(255,255,255,.08); }
+.cta { display:inline-block; margin-top:1rem; padding:.7rem 1.4rem; border:1px solid #34ff88; border-radius:6px; }
